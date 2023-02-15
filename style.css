@@ -85,7 +85,6 @@ input:hover {
   z-index: -1;
   font-size: 250px;
   color: #ffffff;
-  background: #232323;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 30px #49ff18,
     0 0 40px #49ff18, 0 0 50px #49ff18, 0 0 65px #49ff18, 0 0 95px #49ff18;
   color: #ffffff;
@@ -97,7 +96,6 @@ input:hover {
   z-index: -1;
   font-size: 350px;
   color: #ffffff;
-  background: #232323;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 30px #EB001F,
     0 0 40px #EB001F, 0 0 50px #EB001F, 0 0 65px #EB001F, 0 0 95px #EB001F;
   color: #ffffff;
